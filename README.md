@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnjoshuadablo
-- 👀 I’m interested in Javascript, react native, react js
+- 👀 I’m interested in Javascript, React Native, ReactJS
 - 🌱 I’m currently learning AWS and laravel
 - 📫 You can email me at joshuadablo.jd@gmail.com
 
